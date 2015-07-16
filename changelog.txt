@@ -1,0 +1,23 @@
+Version 1.2
+===========
+[FIXED]   Zoom-Fehler beim Wechseln des Schwierigkeitsgrades
+[CHANGED] Anzeige für Extrapunkt "reduziert" (setzt den Spieler nicht so unter Druck)
+[CHANGED] Untergrund dreht sich nicht mehr mit
+[CHANGED] Buttons mit Text durch solche mit Symbolen ersetzt
+[CHANGED] Figur anhalten durch Klick auf die Vorschau
+[CHANGED] Readme auf das Wesentliche gekürzt
+[CHANGED] Freies Drehen des Objekts möglich
+[CHANGED] Spiel wird jetzt nur noch mit der Maus gesteuert
+[ADDED]   Ingame-Hilfe zur Steuerung
+[REMOVED] Untergrund aus der unteren Anzeige entfernt
+
+Version 1.1
+===========
+[CHANGED] Levelzeit und Punkte wurden beim Ändern des Schwierigkeitsgrades zurückgesetzt
+(so konnte man in aller Ruhe die Figur bauen und dann auf maximale Schwierigkeit wechseln,
+um enorm viele Punkte zu bekommen)
+
+
+Version 1.0
+===========
+[RELEASE] erste Veröffentlichung

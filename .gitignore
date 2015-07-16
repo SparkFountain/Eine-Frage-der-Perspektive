@@ -1,0 +1,5 @@
+*.zip
+*.rar
+#video/*
+sfx/*.cpr
+sfx/Audio
