@@ -15,9 +15,8 @@ damit du sie aus allen Perspektiven siehst. Jetzt musst du diese Figur nachbauen
 
 Kannst du es schaffen, alle 20 Level zu absolvieren??
 
-
 ## Steuerung
-`Linke Maustaste`: Objekt anwählen
+`Linke Maustaste`: Objekt anwählen 
 `Rechte Maustaste`: Gedrückt halten und Maus bewegen, um Objekt zu drehen
 `Scrollrad`: Ausgewählte Figur wechseln
 
