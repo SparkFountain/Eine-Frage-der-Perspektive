@@ -17,16 +17,16 @@ Kannst du es schaffen, alle 20 Level zu absolvieren??
 
 
 ## Steuerung
-[Linke Maustaste]: Objekt anwählen
-[Rechte Maustaste]: Gedrückt halten und Maus bewegen, um Objekt zu drehen
-[Scrollrad]: Ausgewählte Figur wechseln
+`Linke Maustaste`: Objekt anwählen
+`Rechte Maustaste`: Gedrückt halten und Maus bewegen, um Objekt zu drehen
+`Scrollrad`: Ausgewählte Figur wechseln
 
 
 ## Tipps
--> Je höher der Schwierigkeitsgrad, desto mehr Punkte bekommst du!
--> Wenn du einen Level sehr schnell absolvierst, erhältst du Bonuspunkte.
--> Während du auf die Vorschau-Figur klickst, hört sie auf sich zu drehen.
--> Um alle Fragezeichen-Kisten anklicken zu können, musst du die Kamera drehen.
+* Je höher der Schwierigkeitsgrad, desto mehr Punkte bekommst du!
+* Wenn du einen Level sehr schnell absolvierst, erhältst du Bonuspunkte.
+* Während du auf die Vorschau-Figur klickst, hört sie auf sich zu drehen.
+* Um alle Fragezeichen-Kisten anklicken zu können, musst du die Kamera drehen.
 
 
 ## Credits
